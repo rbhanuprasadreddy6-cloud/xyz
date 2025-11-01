@@ -1,3 +1,2 @@
-touch file1.txt
-echo 'hello everyone' >> file1.txt
-cat file1.txt
+madhu is a good boy
+he loves sreeleela
